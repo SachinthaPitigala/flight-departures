@@ -20,7 +20,7 @@ If you are flying out of Seattle, **which airline you book dramatically changes 
 ### 1. The Headline Comparison: Share of Flights Delayed > 5 Minutes
 
 <iframe
-  src="/charts/carrier_delay_bar.html"
+  src="charts/carrier_delay_bar.html"
   width="100%"
   height="600"
   frameborder="0">
